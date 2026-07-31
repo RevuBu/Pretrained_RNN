@@ -1,0 +1,10 @@
+batch:  1000, over_loss:  34.51473, position:   3.25644, hold:  13.29465, trajactory:   1.88197, velocity:  15.10476, jerk:   0.06115, muscle:   0.91576
+batch:  2000, over_loss:  19.55567, position:   2.60998, hold:   9.72984, trajactory:   1.06177, velocity:   5.23665, jerk:   0.09462, muscle:   0.82282
+batch:  3000, over_loss:  16.32287, position:   1.83665, hold:   8.79068, trajactory:   0.62480, velocity:   4.09828, jerk:   0.09732, muscle:   0.87515
+batch:  4000, over_loss:  13.85839, position:   1.47793, hold:   7.80265, trajactory:   0.38758, velocity:   3.10865, jerk:   0.09152, muscle:   0.99005
+batch:  5000, over_loss:  12.33892, position:   1.43066, hold:   6.60917, trajactory:   0.31376, velocity:   2.79672, jerk:   0.08750, muscle:   1.10111
+batch:  6000, over_loss:  10.69202, position:   1.17063, hold:   5.65436, trajactory:   0.19197, velocity:   2.39771, jerk:   0.08087, muscle:   1.19647
+batch:  7000, over_loss:   9.59791, position:   1.15631, hold:   4.81840, trajactory:   0.17386, velocity:   2.12295, jerk:   0.08113, muscle:   1.24525
+batch:  8000, over_loss:   8.99968, position:   1.02948, hold:   4.44098, trajactory:   0.14600, velocity:   2.03018, jerk:   0.07775, muscle:   1.27527
+batch:  9000, over_loss:   8.45804, position:   0.96953, hold:   4.12709, trajactory:   0.11893, velocity:   1.88276, jerk:   0.07634, muscle:   1.28338
+batch: 10000, over_loss:   8.70379, position:   1.04821, hold:   4.12176, trajactory:   0.13962, velocity:   2.05240, jerk:   0.07479, muscle:   1.26701

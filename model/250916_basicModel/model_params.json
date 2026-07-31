@@ -1,0 +1,1 @@
+{"device": "cuda", "nonlinearity": "tanh", "n_fb": 14, "n_rec": 100, "n_out": 6, "n_out_task": 12, "density": {"rec": 0.8, "in": 0.5, "out": 0.5}, "radius": 1.5, "ini_std": 0.1, "dt": 10, "tau": 50, "noise_std": 0.15, "dale's law": true}
